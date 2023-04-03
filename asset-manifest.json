@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/tractian/static/js/main.47b552ae.js",
+    "main.js": "/tractian/static/js/main.17bc0e81.js",
     "static/media/tractianLogo.svg": "/tractian/static/media/tractianLogo.3e388f536013058bff93a4c8400ee162.svg",
     "index.html": "/tractian/index.html",
-    "main.47b552ae.js.map": "/tractian/static/js/main.47b552ae.js.map"
+    "main.17bc0e81.js.map": "/tractian/static/js/main.17bc0e81.js.map"
   },
   "entrypoints": [
-    "static/js/main.47b552ae.js"
+    "static/js/main.17bc0e81.js"
   ]
 }
