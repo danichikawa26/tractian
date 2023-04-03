@@ -8,7 +8,7 @@ import UserDetail from "./components/users/userDetail";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/tractian",
     element: <App />,
     children: [
       {
