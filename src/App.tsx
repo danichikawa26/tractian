@@ -120,7 +120,7 @@ const App = (props: any) => {
           return {
             key: `asset-${asset.id}`,
             label: asset.name,
-            to: `/assets/${asset.id}`,
+            to: `/tractian/assets/${asset.id}`,
             service: assetService
           };
         })
@@ -133,7 +133,7 @@ const App = (props: any) => {
           return {
             key: `workOrder-${workOrder.id}`,
             label: workOrder.title,
-            to: `/workorders/${workOrder.id}`,
+            to: `/tractian/workorders/${workOrder.id}`,
             service: workOrderService
           };
         })
@@ -146,7 +146,7 @@ const App = (props: any) => {
           return {
             key: `unit-${unit.id}`,
             label: unit.name,
-            to: `/units/${unit.id}`,
+            to: `/tractian/units/${unit.id}`,
             service: unitService
           };
         })
@@ -159,7 +159,7 @@ const App = (props: any) => {
           return {
             key: `user-${user.id}`,
             label: user.name,
-            to: `/users/${user.id}`,
+            to: `/tractian/users/${user.id}`,
             service: userService
           };
         })
