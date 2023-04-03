@@ -194,7 +194,7 @@ const App = (props: any) => {
             width: "150px",
             cursor: "pointer"
           }}
-          onClick={() => navigate("/")}
+          onClick={() => navigate("/tractian")}
         />
       </Header>
       <Layout>
